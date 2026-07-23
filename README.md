@@ -76,10 +76,11 @@ Throughout this project I learned how to:
 
 The completed breadboard prototype showing all connected components.
 
-![Hardware Layout](images/Components_Layout.jpg)
+[Hardware Layout](Images_of_Prototype/)
 
 The completed PCB assembled
 
+[Hardware Layout](Images_of_PCB_HAT/)
 
 
 ## Future Improvements
