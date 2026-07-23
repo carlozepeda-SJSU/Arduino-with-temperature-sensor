@@ -1,5 +1,8 @@
 # Arduino Environmental Monitor
 
+
+![Project Layout](images/Components_Layout.jpg)
+
 ## Overview
 
 This is a project I worked on to learn how to use the Arduino R4 board while also building a practical device that monitors the temperature, power drawn, time and displays it on a small screen. Throughout the time I worked on this project I gained experience with the Arduino IDE, common electronic used libraries, electronic components, circuit design, and integrated multiple modules into a single working system.
@@ -66,6 +69,18 @@ Throughout this project I learned how to:
 - Solder through hole components
 - Integrate multiple modules into a single embedded system
 - Synchronize time over Wi-Fi using the Arduino Uno R4
+
+## Project Gallery
+
+### Hardware Layout
+
+The completed breadboard prototype showing all connected components.
+
+![Hardware Layout](images/Components_Layout.jpg)
+
+The completed PCB assembled
+
+
 
 ## Future Improvements
 
