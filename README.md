@@ -1,7 +1,7 @@
 # Arduino Environmental Monitor
 
 
-![Project Layout](Images_of_Prototype/Components_Layedout.jpg)
+![Project Layout](Images_of_PCB_HAT/Top_View.jpg)
 
 ## Overview
 
