@@ -22,7 +22,7 @@ The finished project displays environmental data, power consumption, and the cur
 
 ### Phase 1 - Breadboard Prototype
 
-The project started with just a breadboard and temperature sensor displaying information on the Arduino IDE. For someone who has never build a project by themselves, this was the hardest part. Understanding how libraries work and finding which library is needed for the electronic components was not easy at first. Coding was another part of the project that I was not confident about, however as I kept learning more and expanding the project, I gained more knowledge and confidence.
+The project started with just a breadboard and temperature sensor displaying information on the Arduino IDE. For someone who had never built a project on their own, this was the hardest part. Understanding how libraries work and finding which library is needed for the electronic components was not easy at first. Coding was another part of the project that I was not confident about, however as I kept learning more and expanding the project, I gained more knowledge and confidence.
 Once everything implemented was working as intended, I decided that it was time to take the next step.
 
 Features included:
@@ -33,7 +33,7 @@ Features included:
 
 ### Phase 2 - Custom PCB
 
-While the breadboard prototype was working as intended, I wanted to make it look less messy and more like a finished product. So I designed a custom PCB in KiCad that mounts directly on top of the Arduino Uno R4. This part helped me understand how KiCAD work flow is like. From desiding where to place the components, to finding the right footprints. This part was a lot of trial and error, but I am satisfied with the end product.
+While the breadboard prototype was working as intended, I wanted to make it look less messy and more like a finished product. So I designed a custom PCB in KiCad that mounts directly on top of the Arduino Uno R4. This part helped me understand the KiCAD work flow. From deciding where to place the components, to finding the right footprints. This part was a lot of trial and error, but I am satisfied with the end product.
 
 The PCB includes:
 - Through hole components
